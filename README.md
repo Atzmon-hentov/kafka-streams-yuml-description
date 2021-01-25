@@ -1,2 +1,3 @@
-# kafka-streams-yuml-description
-Describes kafka-streams topologies in yuml diagrams
+# yuml-generator
+Generates yuml (https://yuml.me/) diagrams.
+
